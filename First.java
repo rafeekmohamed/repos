@@ -1,8 +1,9 @@
 class First
 {
     public static void main(String args[]) {
-        while (int i=0;i<10;i++) {
+        int i=0;
+        //while (i=0;i<10;i++) {
             System.out.println("The value of i is now " + i);
-        }
+        //}
     }
 }
