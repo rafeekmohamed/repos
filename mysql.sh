@@ -1,7 +1,7 @@
 echo mysql.sh file
 
 if [ -z "$1" ]; then
-  echo "INput MySQL Password is Missing"
+  echo "Input MySQL Password is Missing"
   exit 1
 fi
 
